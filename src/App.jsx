@@ -344,7 +344,7 @@ function App() {
                 initial={{ scale: 0, rotate: -180 }}
                 animate={{ scale: 1, rotate: 0 }}
                 transition={{ type: 'spring', stiffness: 200, damping: 15 }}
-                src="/public/basketball-meme.jpg"
+                src="./basketball-meme.jpg"
                 alt="Basketball meme"
                 className="max-w-md md:max-w-lg lg:max-w-xl mb-8 rounded-lg shadow-2xl"
               />
